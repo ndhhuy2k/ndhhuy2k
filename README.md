@@ -46,7 +46,7 @@ As a **Senior Data Engineer**, I specialize in designing robust data architectur
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhhuy2k&theme=radical&hide_border=true&background=0D1117" alt="Huy's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhhuy2k&theme=radical" alt="Huy's GitHub Streak" />
 </div>
 <div align="center">
   <h3>Languages & Frameworks</h3>
